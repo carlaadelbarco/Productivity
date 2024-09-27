@@ -36,12 +36,8 @@ cd repository-name
 3. Install the necessary dependencies (if applicable):
 
 ```bash
-npm install 
+mvn install 
 ```
-4. Start the application:
-
-```bash
-npm start
-```
+4. Start the application
 
 5. Access the application via your web browser at http://localhost:3000 (or the configured port).
