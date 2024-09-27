@@ -1,6 +1,6 @@
 # Productivity Project
 
-This is a personal project aimed at organizing and managing tasks efficiently. Over time, I will be continuously adding new features and improvements to make it more comprehensive and useful for day-to-day productivity. The tool allows users to **create**, **edit**, **delete**, and **manage** tasks in a simple and intuitive manner.
+This is a simple personal project aimed at organizing and managing tasks efficiently. Over time, I will be continuously adding new features and improvements to make it more comprehensive and useful for day-to-day productivity. The tool allows users to **create**, **edit**, **delete**, and **manage** tasks in a simple and intuitive manner.
 
 ## Current Features
 
